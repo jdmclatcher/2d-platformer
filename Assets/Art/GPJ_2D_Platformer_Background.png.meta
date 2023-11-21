@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 8d32fd16f944be24a91d219c32f8c7ef
+timeCreated: 1458597111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GPJ_2D_Platformer_Background_0
+    21300002: GPJ_2D_Platformer_Background_1
+    21300004: GPJ_2D_Platformer_Background_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 256
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: GPJ_2D_Platformer_Background_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20}
+        - {x: -47.5, y: 3}
+        - {x: -50.5, y: -8}
+        - {x: -50.5, y: -20}
+        - {x: 50.5, y: -20}
+        - {x: 50.5, y: -3}
+        - {x: 25.5, y: 20}
+    - name: GPJ_2D_Platformer_Background_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 185
+        width: 120
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -21}
+        - {x: -60, y: -26}
+        - {x: 60, y: -26}
+        - {x: 60, y: -21}
+        - {x: 56, y: -12}
+        - {x: 38, y: 26}
+        - {x: -3, y: 26}
+        - {x: -16, y: 24}
+    - name: GPJ_2D_Platformer_Background_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 249
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 18.5}
+        - {x: -102.5, y: 18.5}
+        - {x: -116.5, y: 15.5}
+        - {x: -124.5, y: -9.5}
+        - {x: -124.5, y: -18.5}
+        - {x: 124.5, y: -18.5}
+        - {x: 124.5, y: -15.5}
+        - {x: 95.5, y: 9.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
